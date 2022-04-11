@@ -1,1 +1,2 @@
-# test
+mano pirmoji repozitorija
+pagrindai vim

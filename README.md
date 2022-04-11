@@ -5,18 +5,18 @@ https://git-scm.com/downloads
 
 ## Repozitorijos parsiuntimas
 1. Atsidarykite GIT CLI (GIT bash).
-2. Naudodami komandą <cd> pakeiskite savo darbinę kategoriją į tą, į kurią norite parsisiųsti repozitoriją
+2. Naudodami komandą **&lt;cd&gt;** pakeiskite savo darbinę kategoriją į tą, į kurią norite parsisiųsti repozitoriją
 3. Parsiųskite repozitoriją: https://github.com/kmakselis/test
 4. Pakeiskite darbinę kategoriją į parsiųstos repozitorijos kategoriją
 cd test
 
 ## Pagrindinės komandos
 1. **git add** -> failų paruošimas patvirtinimui
-    -  **git add <failo-pavadinimas>** -> prideda failą nurodytu pavadinimu
+    -  **git add &lt;failo-pavadinimas&gt;** -> prideda failą nurodytu pavadinimu
     -  **git add .** -> prideda visus pakitusius failus
 
 2. **git diff** - skirtumas tarp dviejų failų ar dvijeų to paties failo versijų
-    -  **git diff <failo-pavadinimas>** -> failo nurodytu pavadinimu pakitimai nuo paskutinio commit'o 
+    -  **git diff &lt;failo-pavadinimas&gt;** -> failo nurodytu pavadinimu pakitimai nuo paskutinio commit'o 
 
 3. **git status** -> parodo pakitusių failų būseną
 
